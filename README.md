@@ -35,4 +35,4 @@ replit >> https://replit.com/@9688Girl/Chuy-github?v=1
 
 ## 原作者by Sayrix >  [[NSFW-Bot]](https://github.com/Sayrix/NSFW-Bot)
 支持正版
-本檔案只是漢化 , 原作者收到警告24小時內刪除
+本檔案只是漢化 , 收到Sayrix作者警告24小時內刪除
