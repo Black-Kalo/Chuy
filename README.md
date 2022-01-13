@@ -1,6 +1,7 @@
 # Chuy Bot
 
 Chuy Bot is `nsfw`
+[Chuy是一個開源bot , 本人已漢化]
 
 ## Commands :
 
