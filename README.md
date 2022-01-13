@@ -33,4 +33,4 @@ replit >> https://replit.com/@9688Girl/Chuy-github?v=1
 
 
 
-## by. Sayrix >  [[NSFW-Bot]](https://github.com/Sayrix/NSFW-Bot)
+## 原作者by Sayrix >  [[NSFW-Bot]](https://github.com/Sayrix/NSFW-Bot)
