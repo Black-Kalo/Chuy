@@ -16,10 +16,10 @@ Chuy Bot is `nsfw`
 ```json
 //config.json
 {
-  "prefix": "your prefix",
-  "token": "your token",
+  "prefix": "prefix",
+  "token": "token",
   "owners": ["OWNER ID"],
-  "footer": "NSFW Bot • is.gd/nsfwbot",
+  "footer": "NSFW Bot z!help",
 
   "msg": {
     "nsfwWarn": "尚未添加nsfw頻道 /You must use this command in an nsfw channel!",
