@@ -2,6 +2,7 @@
 
 Chuy Bot is `nsfw`
 [Chuy是一個開源bot , 本人已漢化]
+replit >> https://replit.com/@9688Girl/Chuy-github?v=1
 
 ## Commands :
 
