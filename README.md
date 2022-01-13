@@ -14,7 +14,7 @@ replit >> https://replit.com/@9688Girl/Chuy-github?v=1
 
 
 ##  config 
-
+[config.md >> config.json]
 ```json
 //config.json
 {
