@@ -2,7 +2,8 @@
 
 Chuy Bot is `nsfw`
 [Chuy是一個開源bot , 本人已漢化]
-replit >> https://replit.com/@9688Girl/Chuy-github?v=1
+replit >> https://replit.com/@9688Girl/Chuy-github?v=1 <br>
+Chuy Bot >> [bot](https://discord.com/api/oauth2/authorize?client_id=931145373278437417&permissions=1043721343&scope=bot)
 
 ## Commands :
 
