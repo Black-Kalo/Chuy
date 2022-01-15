@@ -35,5 +35,5 @@ Chuy Bot >> [bot](https://discord.com/api/oauth2/authorize?client_id=93114537327
 
 
 ## 原作者by Sayrix >  [[NSFW-Bot]](https://github.com/Sayrix/NSFW-Bot)
-支持正版
+支持正版!
 本檔案只是漢化 , 收到Sayrix作者警告24小時內刪除
